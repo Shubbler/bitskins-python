@@ -16,7 +16,6 @@ pip install bitskins-python
 import bitskins
 
 
-
 api_key = os.environ.get("api_key")
 secret = os.environ.get("secret")
 
